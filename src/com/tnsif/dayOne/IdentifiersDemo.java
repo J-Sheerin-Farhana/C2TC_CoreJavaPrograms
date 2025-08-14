@@ -24,6 +24,7 @@ public class IdentifiersDemo {
 			
 				String studentName="Aniket"; //use camelcase
 				System.out.println("value is : "+ studentName);
+				System.out.println("hello");
 	}
 
 }

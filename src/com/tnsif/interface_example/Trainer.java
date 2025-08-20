@@ -1,4 +1,4 @@
-package com.tnsifinterface_example;
+package com.tnsif.interface_example;
 
 public class Trainer implements Coder {
 	@Override

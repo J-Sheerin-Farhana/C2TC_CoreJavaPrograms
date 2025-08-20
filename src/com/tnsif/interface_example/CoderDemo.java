@@ -1,4 +1,4 @@
-package com.tnsifinterface_example;
+package com.tnsif.interface_example;
 
 public class CoderDemo {
 	public static void main(String[] args) {

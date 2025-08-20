@@ -1,15 +1,21 @@
 package com.tnsif.abstract_example;
 
 public class TnsifCgDemo {
-public static void main(String[] args) {
+
+	public static void main(String[] args) 
+	{
+		Trainer t1=new SoftSkillTrainer();
 		
-		Trainer t=new softSkillTrainer();
-		t.session();
-		t.check();
+		t1.display();
+		t1.session();
+		t1.checks();
 		
-		Trainer tt=new TechTrainer();
-		tt.session();
-		tt.check();
+	   System.out.println();
+       Trainer t2=new TechTrainer();
+		
+        t2.display();
+		t2.session();
+		t2.checks();
 
 	}
 

@@ -1,13 +1,15 @@
 package com.tnsif.abstract_example;
 
-public class SoftSkillTrainer extends Trainer {
+public class SoftSkillTrainer extends Trainer{
 	
+	@Override
 	public void session() {
-		
-		System.out.println("Resume buliding is going on");
+		System.out.println("Resume building is going on");
 	}
-	public void check() {
-		System.out.println("Cover letter home work");
+	
+	@Override
+	public void checks() {
+		System.out.println("Cover letter assignments");
 	}
-
+	
 }

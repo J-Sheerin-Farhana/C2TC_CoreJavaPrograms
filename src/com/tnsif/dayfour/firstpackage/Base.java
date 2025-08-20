@@ -26,7 +26,7 @@ public class Base {
 		System.out.println("Public Variable : "+varPublic);
 	}
 	
-	private void methodPrivate()
+	protected void methodProtected()
 	{
 		System.out.println("Private access Base class");
 		System.out.println("Private Variable : "+varPrivate);

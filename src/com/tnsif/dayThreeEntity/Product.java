@@ -1,4 +1,4 @@
-package com.tnsif.dayThree;
+package com.tnsif.dayThreeEntity;
 
 public class Product {
 

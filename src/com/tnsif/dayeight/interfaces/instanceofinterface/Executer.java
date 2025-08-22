@@ -1,7 +1,7 @@
 //Program to demonstrate interface instance using factory method
 package com.tnsif.dayeight.interfaces.instanceofinterface;
 
-public class Executor {
+public class Executer {
 	public static void main(String args[]) {
 		
 		Phone p1 = PhoneFactory.createPhone("Samsung"); 

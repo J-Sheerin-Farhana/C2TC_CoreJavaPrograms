@@ -1,5 +1,5 @@
 //program to demonstrate char data type
-package com.tnsif.dayOne;
+package com.tnsif.day1;
 
 public class Chardemo {
 	public static void main(String[] args) {

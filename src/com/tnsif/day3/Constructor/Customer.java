@@ -1,5 +1,5 @@
 //Program to demonstrate Constructor
-package com.tnsif.dayThree.Constructor;
+package com.tnsif.day3.Constructor;
 
 public class Customer {
 	private String customerName;

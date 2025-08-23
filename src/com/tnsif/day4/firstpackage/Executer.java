@@ -1,5 +1,5 @@
 //Program to demonstrate accessing classes and methods
-package com.tnsif.dayfour.firstpackage;
+package com.tnsif.day4.firstpackage;
 
 public class Executer {
 	public static void main(String[] args) 

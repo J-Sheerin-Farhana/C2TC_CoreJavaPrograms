@@ -1,5 +1,5 @@
 //Program to demonstrate various String class Methods
-package com.tnsif.daynine;
+package com.tnsif.day9;
 
 public class StringOperationsDemo {
 	public static void main(String[] args) {

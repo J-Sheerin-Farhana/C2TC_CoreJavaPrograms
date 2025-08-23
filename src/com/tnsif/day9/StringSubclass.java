@@ -1,5 +1,5 @@
 //can't inherit final classes
-package com.tnsif.daynine;
+package com.tnsif.day9;
 
 public class StringSubclass extends String {
 

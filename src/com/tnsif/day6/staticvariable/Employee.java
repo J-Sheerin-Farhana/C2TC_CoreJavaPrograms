@@ -1,5 +1,5 @@
 //Program to demonstrate static variable
-package com.tnsif.daysix.staticvariable;
+package com.tnsif.day6.staticvariable;
 
 public class Employee {
 	// Declare instance variables.

@@ -1,5 +1,5 @@
 //Program to demonstrate final class
-package com.tnsif.daysix.usingfinal;
+package com.tnsif.day6.usingfinal;
 
 final class FinalClass {
 	void show() {

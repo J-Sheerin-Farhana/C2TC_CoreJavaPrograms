@@ -1,4 +1,4 @@
-package com.tnsif.dayThreeEntity;
+package com.tnsif.Entity_example;
 
 public class Product {
 

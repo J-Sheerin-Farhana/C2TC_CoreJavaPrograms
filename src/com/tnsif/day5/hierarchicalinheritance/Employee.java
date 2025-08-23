@@ -1,5 +1,5 @@
 //Program to demonstrate Hierarchical Inheritance - Employee Class
-package com.tnsif.dayfive.hierarchicalinheritance;
+package com.tnsif.day5.hierarchicalinheritance;
 public class Employee extends Person{
 	private int empId;
 	private float salary;

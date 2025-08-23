@@ -1,5 +1,5 @@
 //Program to define child class Wordpad with formatting text feature
-package com.tnsif.dayfive.multilevelinheritance.texteditor;
+package com.tnsif.day5.multilevelinheritance.texteditor;
 
 public class Wordpad extends Notepad {
     private boolean isBold;
